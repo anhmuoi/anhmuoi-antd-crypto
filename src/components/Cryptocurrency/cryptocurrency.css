@@ -1,0 +1,17 @@
+.search-crypto {
+  margin: 20px auto 30px auto;
+  width: 250px;
+}
+.crypto-card-container {
+  min-height: 65vh !important;
+}
+.crypto-card {
+  width: 250px !important;
+  height: 250px !important;
+}
+.ant-card-head {
+  height: 86px;
+}
+.crypto-card .crypto-image {
+  width: 35px;
+}
