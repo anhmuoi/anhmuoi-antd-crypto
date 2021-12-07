@@ -6,7 +6,7 @@ import Cryptocurrency from './components/Cryptocurrency';
 import CryptoDetails from './components/CryptoDetails';
 import Home from './components/Home';
 import Navbar from './components/Navbar';
-import News from './components/News';
+import News from './components/News'
 
 
 function App() {
